@@ -102,7 +102,7 @@ Use Quest 3 / 3S (Snapdragon XR2 Gen 2) as your reference. These numbers are tar
 - [Valem Tutorials — Unity VR](https://www.youtube.com/@ValemTutorials)
 - [Justin P Barnett — XRI 3.x](https://www.youtube.com/@JustinPBarnett)
 - [Bastiaan Olij — Godot OpenXR](https://www.youtube.com/@BastiaanOlij)
-- [Meta Horizon OS — Performance Guides](https://developers.meta.com/horizon/documentation/unity/unity-performance/)
+- [Meta Horizon OS — Performance Guides](https://developers.meta.com/horizon/)
 
 ---
 
@@ -148,7 +148,7 @@ The old "Oculus Integration" package is deprecated. The current SDK is modular v
 4. For headset-free iteration: install Meta XR Simulator and Synthetic Environment Builder.
 
 **Resources:**
-- [Meta Horizon OS — Unity Getting Started](https://developers.meta.com/horizon/documentation/unity/unity-getting-started/)
+- [Meta Horizon OS — Unity Getting Started](https://developers.meta.com/horizon/develop/unity/)
 - [Meta XR All-in-One SDK — UPM (v205.0)](https://developers.meta.com/horizon/downloads/package/meta-xr-sdk-all-in-one-upm)
 - [Passthrough Camera API — Unity Overview](https://developers.meta.com/horizon/documentation/unity/unity-pca-overview)
 - [MRUK Documentation](https://developers.meta.com/horizon/documentation/unity/unity-mr-utility-kit-overview/)
@@ -243,7 +243,7 @@ Capture and reason about scene understanding data, place content with environmen
 3. *(Advanced)* Stream a camera frame via PCA, run a lightweight detector (QR or bounding box), and overlay a label — handle resolution changes dynamically.
 
 **Resources:**
-- [Meta Horizon OS — Mixed Reality Overview](https://developers.meta.com/horizon/documentation/unity/unity-mr-overview/)
+- [Meta Horizon OS — Mixed Reality Overview](https://developers.meta.com/horizon/documentation/unity/unity-sample-mruk-basic)
 - [MRUK Documentation](https://developers.meta.com/horizon/documentation/unity/unity-mr-utility-kit-overview/)
 - [Apple visionOS Documentation](https://developer.apple.com/visionos/)
 - [LearnXR — Quest & MRUK Guides](https://learnxr.io/)
