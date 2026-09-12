@@ -12,7 +12,7 @@ Game development and XR resources for Pausch Lab at **Next Tech Lab (NTL)**. Ope
 | **[Other game engines](GameDev.md)** | Unreal Engine, Godot, browser games |
 | **[XR](XR.md)** | Unity VR, mobile AR, mixed reality, WebXR |
 
-**Suggested NTL route:** Foundations → Unity → Understand Engine →  Make a small game → Understand Version Controls → Publish on itch.io
+**Suggested NTL route:** [Foundations](#foundations) → [Unity basics](Unity.md#1-setup-and-c) → [Gameplay](Unity.md#2-gameplay) → [Small game](#project-checkpoints) → [Git](https://git-scm.com/book/en/v2) → [Publish on itch.io](https://itch.io/docs/creators/getting-started)
 
 ## Foundations
 
