@@ -2,6 +2,8 @@
 
 **Last verified: 12 September 2026** — Resources and documentation links; sample projects were not build-tested.
 
+**Versions checked:** Engine: not verified; SDK/packages: not verified; OS: not verified. Link checks do not establish a tested Unity configuration.
+
 [Home](README.md) · [Other engines](GameDev.md) · [XR](XR.md)
 
 Follow in order. Use one course at a time.

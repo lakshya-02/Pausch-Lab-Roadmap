@@ -2,6 +2,8 @@
 
 **Last verified: 12 September 2026** — Resources and documentation links; sample projects were not build-tested.
 
+**Versions checked:** Engines/frameworks: not verified; SDK: not verified; OS: not verified. Link checks do not establish tested configurations for these routes.
+
 [Home](README.md) · [Unity](Unity.md) · [XR](XR.md)
 
 Choose one route. Unity has a [dedicated roadmap](Unity.md).

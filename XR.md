@@ -2,6 +2,8 @@
 
 **Last verified: 12 September 2026** — Resources and documentation links; sample projects were not build-tested.
 
+**Versions checked:** Engine: not verified; SDK/packages: not verified; device OS/runtime: not verified. No headset or mobile-device compatibility testing was performed.
+
 [Home](README.md) · [Unity](Unity.md) · [Other engines](GameDev.md)
 
 **Start:** Unity basics, C#, transforms, physics. Choose VR, AR, or MR based on available hardware.

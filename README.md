@@ -4,6 +4,8 @@ Game development and XR resources for Pausch Lab at **Next Tech Lab (NTL)**. Ope
 
 **Last verified: 12 September 2026** — Resources and documentation links; sample projects were not build-tested.
 
+**Versions checked:** Engine: N/A; SDK: N/A; OS: N/A (resource index; no runtime compatibility testing).
+
 ## Pick a path
 
 | Path | Topics |
