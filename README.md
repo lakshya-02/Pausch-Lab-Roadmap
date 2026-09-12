@@ -2,7 +2,7 @@
 
 Game development and XR resources for Pausch Lab at **Next Tech Lab (NTL)**. Open to everyone.
 
-**Research reviewed: 12 September 2026**
+**Last verified: 12 September 2026** — Resources and documentation links; sample projects were not build-tested.
 
 ## Pick a path
 
@@ -38,7 +38,7 @@ Learn alongside your first project. Choose one programming language.
 | Focus | Source |
 | --- | --- |
 | Unity and Unreal; PC and handheld development | [GDC 2026 industry survey](https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/) |
-| India's Biggest Game Development Conference | [IGDC](https://igdc.in/) |
+| India Game Developer Conference | [IGDC](https://igdc.in/) |
 | Supported Unity releases and package compatibility | [Unity release support](https://unity.com/releases/unity-6/support) |
 | OpenXR and device-specific XR features | [Khronos OpenXR](https://www.khronos.org/openxr/) |
 | Browser compatibility before WebGPU adoption | [MDN WebGPU](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) |

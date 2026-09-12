@@ -1,5 +1,7 @@
 # Extended Reality (XR)
 
+**Last verified: 12 September 2026** — Resources and documentation links; sample projects were not build-tested.
+
 [Home](README.md) · [Unity](Unity.md) · [Other engines](GameDev.md)
 
 **Start:** Unity basics, C#, transforms, physics. Choose VR, AR, or MR based on available hardware.

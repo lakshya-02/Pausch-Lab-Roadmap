@@ -1,5 +1,7 @@
 # Other Game Engines
 
+**Last verified: 12 September 2026** — Resources and documentation links; sample projects were not build-tested.
+
 [Home](README.md) · [Unity](Unity.md) · [XR](XR.md)
 
 Choose one route. Unity has a [dedicated roadmap](Unity.md).
@@ -42,5 +44,7 @@ Choose one route. Unity has a [dedicated roadmap](Unity.md).
 - **C++:** [LearnCpp](https://www.learncpp.com/)
 - **Rendering:** [LearnOpenGL](https://learnopengl.com/)
 - **Small native games:** [raylib examples](https://www.raylib.com/examples.html)
+
+**Build:** Render a rotating cube with keyboard-controlled movement in OpenGL or raylib.
 
 Use current documentation alongside videos; match the engine or framework version.

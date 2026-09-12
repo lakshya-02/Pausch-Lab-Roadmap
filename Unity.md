@@ -1,5 +1,7 @@
 # Unity
 
+**Last verified: 12 September 2026** — Resources and documentation links; sample projects were not build-tested.
+
 [Home](README.md) · [Other engines](GameDev.md) · [XR](XR.md)
 
 Follow in order. Use one course at a time.
